@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Cirrus",
+    "src": "https://www.weather.gov/images/lmk/soo/CirrusField-color.jpg",
+    "details": "Cirrus clouds are wispy, feathery, and composed entirely of ice crystals. They often are the first sign of an approaching warm front or upper-level jet streak."
+  },
+  {
+    "name": "Cirrocumulus",
+    "src": "https://www.weather.gov/images/lmk/soo/ben1.jpg",
+    "details": "Cirrocumulus clouds are layered clouds permeated with small cumuliform lumpiness. They also may line up in streets or rows of clouds across the sky denoting localized areas of ascent (cloud axes) and descent (cloud-free channels)."
+  },
+  {
+    "name": "Cirrostratus",
+    "src": "https://www.weather.gov/images/lmk/soo/cirrostratus.jpg",
+    "details": "Cirrostratus clouds form more of a widespread, veil-like layer.cirrus clouds tend to thicken into cirrostratus, which may, in turn, thicken and lower into altostratus, stratus, and even nimbostratus. "
+  },
+  {
+    "name": "Altostratus",
+    "src": "https://www.weather.gov/images/lmk/soo/altostratus.jpg",
+    "details": "Altostratus clouds possess a flat and uniform type texture in the mid levels. They frequently indicate the approach of a warm front and may thicken and lower into stratus, then nimbostratus resulting in rain or snow"
+  },
+  {
+    "name": "Altocumulus",
+    "src": "https://www.weather.gov/images/lmk/soo/altocumulus.jpg",
+    "details": "Like cirrocumulus, altocumulus may align in rows or streets of clouds, with cloud axes indicating localized areas of ascending, moist air, and clear zones between rows suggesting locally descending, drier air"
+  },
+  {
+    "name": "Nimbostratus",
+    "src": "https://www.weather.gov/images/lmk/soo/nimbostratus12.jpg",
+    "details": "Nimbostratus clouds are generally thick, dense stratus or stratocumulus clouds producing steady rain or snow . "
+  },
+  {
+    "name": "Stratus",
+    "src": "https://www.weather.gov/images/lmk/soo/stratus.jpg",
+    "details": "Stratus clouds are uniform and flat, producing a gray layer of cloud cover which may be precipitation-free or may cause periods of light precipitation or drizzle. "
+  },
+  {
+    "name": "Stratocumulus",
+    "src": "https://www.weather.gov/images/lmk/soo/stratocumulus.jpg",
+    "details": "Stratocumulus clouds are hybrids of layered stratus and cellular cumulus, i.e., individual cloud elements, characteristic of cumulo type clouds, clumped together in a continuous distribution, characteristic of strato type clouds."
+  },
+  {
+    "name": "Cumulus",
+    "src": "https://www.weather.gov/images/lmk/soo/mayfield_ky.jpg",
+    "details": "A cumulus cloud that exhibits significant vertical development (but is not yet a thunderstorm"
+  },
+  {
+    "name": "Cumulonimbus",
+    "src": "https://www.weather.gov/images/lmk/soo/cumulonimbus2.jpg",
+    "details": "Cumulonimbus cloud, i.e., a thunderstorm producing heavy rain. In addition, cloud electrification occurs within cumulonimbus clouds resulting in lightning and thunder."
+  },
+  {
+    "name": "Lenticular",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lenticular_Cloud_over_Harold%27s_Cross_Dublin_Ireland_30-6-15.jpg/640px-Lenticular_Cloud_over_Harold%27s_Cross_Dublin_Ireland_30-6-15.jpg",
+    "details": "Lenticular clouds are stationary clouds that form mostly in the troposphere, typically in parallel alignment to the wind direction."
+  },
+  {
+    "name": "Mammatus",
+    "src": "https://www.weather.gov/images/lmk/soo/mammatus.jpg",
+    "details": " Mammatus most often are seen hanging from the anvil of a severe thunderstorm, but do not produce severe weather. They can accompany non-severe storms as well.  "
+  }
+]

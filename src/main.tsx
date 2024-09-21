@@ -9,8 +9,8 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path="cloud-atlas/" element={<App />} />
-        <Route path="cloud-atlas/quiz" element={<Quiz />} />
+        <Route path="/cloud-atlas/" element={<App />} />
+        <Route path="/cloud-atlas/quiz" element={<Quiz />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>

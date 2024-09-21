@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { Link, Outlet } from "react-router-dom";
 import Card from "./components/Card";
 import CloudArr from "./cloudData.json";
 import Footer from "./page/Footer";
@@ -78,6 +78,7 @@ function App() {
           <Card entry={entry} />
         ))}
       </div>
+      <Outlet />
       <Footer />
     </div>
   );

@@ -1,5 +1,12 @@
-const Card = ({ entry }) => {
+type Entry = {
+  name: string;
+  src: string;
+  details: string;
+};
+
+const Card = ({ entry }: { entry: Entry }) => {
   const { name, src, details } = entry;
+  console.log(entry);
   return (
     <div className="m-4 bg-[#C2E8CE] hover:scale-110  grid place-items-center p-8">
       <h1 className="text-3xl mb-4 ">{name}</h1>

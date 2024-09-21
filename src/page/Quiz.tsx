@@ -99,7 +99,7 @@ export const Quiz = () => {
       <div className="flex-row text-center pt-8 text-3xl ">
         <h1 className="mb-12 ">This is a quiz page</h1>
         <h1 className="bg-[#C2E8CE] mx-24 py-4">
-          <Link to="/">Home Page</Link>
+          <Link to="/cloud-atlas/">Home Page</Link>
         </h1>
       </div>
 

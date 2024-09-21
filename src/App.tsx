@@ -71,7 +71,7 @@ function App() {
     <div className="bg-[#F2EEE5] text-[#BE7575]">
       <h1 className="text-4xl text-center py-4 pt-8">Types of Clouds</h1>
       <h2 className="bg-[#C2E8CE] py-4 m-8 text-2xl text-center mt-8">
-        <Link to="/quiz">Try Quiz</Link>
+        <Link to="/cloud-atlas/quiz">Try Quiz</Link>
       </h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mx-4 my-8 ">
         {CloudArr.map((entry) => (

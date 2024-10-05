@@ -9,6 +9,7 @@ export const Quiz = () => {
     return CloudArr[Math.floor(Math.random() * CloudArr.length)];
   });
   console.log(word.name);
+  console.log(setWord);
 
   const correct = () => {
     return (
